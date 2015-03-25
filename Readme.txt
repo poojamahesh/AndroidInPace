@@ -1,1 +1,3 @@
-InPace Project 
+Readme content coming soon...
+If you intend to develop InPace further this is your main source for information.
+Please see our wiki for software engineering documentation that is also applicable to users and stakeholders. 
